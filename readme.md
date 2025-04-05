@@ -7,17 +7,19 @@ Release](https://www.r-pkg.org/badges/last-release/gdverse)](https://CRAN.R-proj
 stable](https://img.shields.io/badge/lifecycle-stable-20b2aa.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![DOI](https://img.shields.io/badge/DOI-10.1111%2Ftgis.70032-63847e?logo=doi&style=flat)](https://onlinelibrary.wiley.com/doi/10.1111/tgis.70032)
 
-# gdverse: Spatial Stratified Heterogeneity Modeling in R
+# gdverse_tutorial: A Practical Guide to Spatial Stratified Heterogeneity Modeling in R
 
-Welcome to the **gdverse_tutorial** repository – your ultimate R package for spatial stratified heterogeneity modeling. This package is designed to measure spatial associations between variables and uncover the underlying spatial dependencies in your data.
+Welcome to the **gdverse_tutorial** repository – a hands-on companion to the [`gdverse`](https://github.com/stscl/gdverse) R package for spatial stratified heterogeneity modeling. This tutorial is designed to help users understand how to apply the core functions of `gdverse` in real-world scenarios and effectively measure spatial associations between variables.
 
-With **gdverse**, you can explore how spatial stratified heterogeneity manifests in various contexts, making it an essential tool for analyzing geographic patterns in fields such as environmental studies, epidemiology, and urban geography. Whether you're investigating the relationship between environmental factors and health outcomes or exploring the spatial variability of socio-economic data, **gdverse** equips you with powerful tools to understand and quantify spatial associations.
+Through a series of examples and annotated scripts, this repository showcases how spatial stratified heterogeneity can be explored in various fields such as environmental science, epidemiology, and socio-economic geography. Whether you're new to `gdverse` or looking for practical ways to integrate it into your workflow, this tutorial provides a user-friendly starting point.
 
-Dive into the source code [here](https://github.com/stscl/gdverse), contribute, and unlock the full potential of spatial stratified heterogeneity analysis in your research. **gdverse** simplifies the process of measuring spatial associations, offering robust functions for modeling spatial stratified heterogeneity and visualizing the result.
+To learn more about the package itself or to contribute to its development, please visit the main repository: [stscl/gdverse](https://github.com/stscl/gdverse).
 
 If you use **gdverse** in your work, please cite it as follows:
 
-    Lv, W., Lei, Y., Liu, F., Yan, J., Song, Y. and Zhao, W. (2025), gdverse: An R Package for Spatial Stratified Heterogeneity Family. Transactions in GIS, 29: e70032. https://doi.org/10.1111/tgis.70032
+```
+Lv, W., Lei, Y., Liu, F., Yan, J., Song, Y. and Zhao, W. (2025), gdverse: An R Package for Spatial Stratified Heterogeneity Family. Transactions in GIS, 29: e70032. https://doi.org/10.1111/tgis.70032
+```
 
 A BibTeX entry for LaTeX users is:
 
