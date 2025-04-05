@@ -25,4 +25,5 @@ d_map = tm_shape(sc) +
             legend.bg.color = "white",
             legend.bg.alpha = 0.65,
             main.title.position = 'center')
-tmap_save(d_map,'./figure/depression_map.pdf',device = cairo_pdf)
+# tmap_save(d_map,'./figure/depression_map.pdf',device = cairo_pdf)
+tmap_save(d_map,'./figure/depression_map.jpg',dpi = 300)
